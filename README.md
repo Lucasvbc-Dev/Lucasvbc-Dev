@@ -41,7 +41,7 @@
   <a href="https://discordapp.com/users/caslu_21_54451" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:lucasvbc05@gmail.com">
+  <a href="lucasvbc05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-barreira-73b88a351/" target="_blank">
@@ -51,7 +51,7 @@
 
 ---
 
-### ✨ Curiosidades sobre mim:
+### Curiosidades sobre mim:
 - Trabalho atualmente com Java.
 - Desenvolvo projetos pessoais utilizando Java e Mysql
 -  Gosto de compartilhar conhecimento e aprender em comunidade
