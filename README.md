@@ -18,7 +18,6 @@
 ---
 
 ### 📘 Atualmente estudando:
-- Design Patterns com Java
 - Desenvolvimento de APIs REST com Spring Boot
 - Integração com banco de dados usando JPA / Hibernate
 - Firebase e Android Studio para aplicativos educacionais
