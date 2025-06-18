@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas Barreira! ☕🚀</h1>
+<h1 align="center">Olá, eu sou o Lucas Barreira! 👨🏻‍💻💻</h1>
 
 <p align="center">
   Desenvolvedor Java com foco em backend.<br>
