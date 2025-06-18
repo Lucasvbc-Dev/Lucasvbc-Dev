@@ -24,10 +24,16 @@
 - Uso do MySql e integração com java
 ---
 
-### 🌱 Contribuições recentes
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasvbc-dev&theme=tokyo-night"/>
-</p>
+### 🧠 Roadmap de Conhecimento
+
+- ✅ Java básico e orientação a objetos
+- ✅ Spring Boot com APIs REST
+- ✅ MySQL e integração com JPA
+- ✅ Firebase + Android Studio
+- 🔄 Testes unitários com JUnit
+- 🔄 Docker e deploy de APIs
+- 🔜 CI/CD com GitHub Actions
+
 
 
 ---
