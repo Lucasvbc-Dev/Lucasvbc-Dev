@@ -23,6 +23,7 @@
 - Integração com banco de dados usando JPA / Hibernate
 - Firebase e Android Studio para aplicativos educacionais
 - Uso do MySql e integração com java
+- Estudo da biblioteca React
 ---
 
 ### 🧠 Roadmap de Conhecimento
