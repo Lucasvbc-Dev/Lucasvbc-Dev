@@ -61,6 +61,7 @@
 ### Curiosidades sobre mim:
 - Trabalho atualmente com Java.
 - Desenvolvo projetos pessoais utilizando Java e Mysql
+- Estou Desenvolvendo projetos com React, buscando conhecimento em Front-end também.
 -  Gosto de compartilhar conhecimento e aprender em comunidade
 
 ---
