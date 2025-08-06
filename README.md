@@ -28,7 +28,7 @@
 
 ### 🧠 Roadmap de Conhecimento
 
-- ✅ Java básico e orientação a objetos
+- ✅ Java e orientação a objetos
 - ✅ Spring Boot com APIs REST
 - ✅ MySQL e integração com JPA
 - ✅ Firebase + Android Studio
