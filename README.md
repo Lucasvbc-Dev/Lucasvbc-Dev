@@ -22,9 +22,9 @@
 ### 📘 Atualmente estudando:
 - Desenvolvimento de APIs REST com Spring Boot
 - Integração com banco de dados usando JPA / Hibernate
-- Firebase e Android Studio para aplicativos educacionais
 - Uso do MySql e integração com java
 - Estudo da biblioteca React
+- Construindo Sistema em Flutter
 ---
 
 ### 🧠 Roadmap de Conhecimento
@@ -32,7 +32,6 @@
 - ✅ Java e orientação a objetos
 - ✅ Spring Boot com APIs REST
 - ✅ MySQL e integração com JPA
-- ✅ Firebase + Android Studio
 - 🔄 Testes unitários com JUnit
 - 🔄 Docker e deploy de APIs
 - 🔜 CI/CD com GitHub Actions
